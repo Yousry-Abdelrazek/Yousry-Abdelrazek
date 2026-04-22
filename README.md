@@ -1,100 +1,54 @@
-<h1 align="center">👋 Hi, I'm Yousry Abdelrazek</h1>
-<h3 align="center">Junior Backend Developer · Cairo, Egypt 🇪🇬</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yousry-abdelrazek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yousryabdelrazek726@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-28a745?style=flat" />
-  <img src="https://img.shields.io/badge/CS%20Graduate-2026-blueviolet?style=flat" />
-</p>
+###
 
----
+<p align="left">I'm Yousry Abdelrazek, a Backend Developer from Egypt 🇪🇬  <br>I build scalable REST APIs using ASP.NET Core and modern backend practices.</p>
 
-### About Me
+###
 
-I'm a backend developer focused on building production-grade **REST APIs** with **ASP.NET Core**. I care about clean architecture, API security, scalable design patterns, and writing code that's ready for real-world use.
+<h2 align="left">About me</h2>
 
-- 🔭 Currently building: **Survey Basket API** — a full-featured REST API with JWT auth, caching, rate limiting, background jobs & IIS deployment
-- 📖 Currently learning: **Microservices Architecture** & System Design
-- 🎯 Goal: Backend Engineer on large-scale distributed systems
-- 💬 Ask me about: ASP.NET Core, REST API design, EF Core, SQL Server
+###
 
----
+<p align="left">✨ Creating APIs and solving backend problems since 2023  <br>📚 Currently learning Microservices Architecture & System Design  <br>🎯 Goal: Become a professional Full Stack Engineer and work on large-scale systems  <br>🎲 Fun fact: I enjoy debugging more than writing code (yes, really 😄)</p>
 
-### 🚀 Featured Projects
+###
 
-#### 🧩 [Survey Basket API](https://github.com/Yousry-Abdelrazek/SurveyBasket)
-> Production-grade REST API built with ASP.NET Core
+<h2 align="left">I code with</h2>
 
-Full CRUD, JWT authentication with refresh tokens, role-based and permission-based authorization via ASP.NET Core Identity. Implements response caching, distributed caching, rate limiting, API versioning, and audit logging. Integrates Hangfire (background jobs), Serilog (structured logging), Mapster (object mapping), and FluentValidation. Complete user registration flow with email verification and password reset. Documented with Swagger/OpenAPI and deployed on IIS.
+###
 
-`ASP.NET Core` `C#` `SQL Server` `JWT` `Hangfire` `Serilog` `FluentValidation` `Mapster` `Docker`
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+</div>
 
----
+###
 
-#### 💧 [AquaProject — Water Potability Analysis API](https://github.com/Yousry-Abdelrazek/Water-Analysis)
-> REST API + ML microservice for real-time water quality classification
 
-Designed with ASP.NET Core and EF Core, integrated with a **FastAPI ML microservice** that classifies water potability based on 9 physicochemical parameters (pH, hardness, turbidity, etc.). Delivers real-time predictions on every submission. Includes a JavaScript frontend for visualizing water quality records.
+###
+<h4 align="left">🚀 Check out my projects below — especially Survey Basket API</h4>
 
-`ASP.NET Core` `FastAPI` `Machine Learning` `EF Core` `SQL Server` `JavaScript`
-
----
-
-#### 🔍 [Search Engine](https://github.com/Yousry-Abdelrazek/Search-Engine)
-> Custom search engine with PageRank and web crawling
-
-Ranks results using **word frequency analysis** and the **PageRank algorithm**. Implements web scraping, an inverted index, SQL Server storage, and is containerized with Docker.
-
-`Python` `PageRank` `Web Scraping` `SQL Server` `Docker`
-
----
-
-### 🛠 Tech Stack
-
-**Core**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Auth & Security**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![ASP.NET Identity](https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Also**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yousry-Abdelrazek&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousry-Abdelrazek&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</p>
-
----
-
-### 📫 Get in Touch
-
-- 📧 yousryabdelrazek726@gmail.com
-- 💼 [linkedin.com/in/yousry-abdelrazek](https://linkedin.com/in/yousry-abdelrazek)
-- 📍 Cairo, Egypt — open to remote opportunities
-
----
-
-<p align="center"><sub>Always learning · Always building</sub></p>
