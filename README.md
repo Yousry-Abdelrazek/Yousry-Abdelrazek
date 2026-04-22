@@ -14,9 +14,6 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science student (graduating 2026) who builds production-grade REST APIs.  
-I care about clean architecture, security, and writing code that scales.
-
 <p>I'm a Backend Developer from Egypt 🇪🇬  <br>I build scalable REST APIs using ASP.NET Core and modern backend practices.</p>
 
 
