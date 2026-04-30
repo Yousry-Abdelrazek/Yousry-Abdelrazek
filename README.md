@@ -1,121 +1,175 @@
-# Hi, I'm Yousry Abdelrazek 👋
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yousry+Abdelrazek!+⚙️" />
+</div>
 
-**Backend Developer · .NET Developer**
-Cairo, Egypt 🇪🇬 · Open to opportunities
+# Yousry Abdelrazek Nagdy 🙋‍♂️
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yousry-abdelrazek-18bb7827a/)
-📧 [yousryabdelrazek726@gmail.com](mailto:yousryabdelrazek726@gmail.com)
+<p align="center">
+    <a href="https://www.linkedin.com/in/yousry-abdelrazek-18bb7827a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:yousryabdelrazek726@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836?style=flat&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/Yousry-Abdelrazek"><img src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
----
+<h2>Junior Backend Developer (.NET Developer) ⚙️</h2>
+
+<h3 align="left">Connect with me:</h3>
+
+- **Email**: [yousryabdelrazek726@gmail.com](mailto:yousryabdelrazek726@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yousry-abdelrazek](https://www.linkedin.com/in/yousry-abdelrazek-18bb7827a/)
+- **GitHub**: [github.com/Yousry-Abdelrazek](https://github.com/Yousry-Abdelrazek)
+- **Location**: Cairo, Egypt 🇪🇬
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ## 👨‍💻 About Me
 
-Junior Backend Developer and Computer Science Graduate (2026).
-I build scalable RESTful APIs using ASP.NET Core and modern backend practices.
+I'm a **Junior Backend Developer** and Computer Science student at Fayoum University (graduating 2026).  
+I build scalable, production-grade REST APIs using **ASP.NET Core**, **C#**, and **SQL Server**.
 
-* 🔭 Currently working on: **Microservices & System Design**
-* 💡 I enjoy: turning complex requirements into simple, reliable APIs
-* 🎯 Goal: Build and contribute to large-scale backend systems
+- 🔭 Currently working on: **Microservices Architecture & System Design**
+- 💡 I enjoy: turning complex requirements into simple, reliable APIs
+- 🎯 Goal: Build and contribute to large-scale backend systems
+- 🎓 Education: B.Sc. Computer Science — Fayoum University (2023–2026)
 
----
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-## 🚀 Tech Stack
+## 🚀 Technical Stack
 
-`C#` · `.NET` · `C++` · `Python` · `Java` · `JavaScript`
-`ASP.NET Core` · `Entity Framework Core` · `SQL Server`
-`Docker` · `Git` · `GitHub` · `Postman` · `Swagger`
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" />
+</div>
 
----
+### 🏗️ Backend & Tools
+- **Frameworks:** ASP.NET Core Web API, ASP.NET MVC, FastAPI
+- **ORM & DB:** Entity Framework Core, LINQ, SQL Server, EF Core Migrations
+- **Auth & Security:** JWT, Refresh Tokens, ASP.NET Core Identity, Role-Based & Permission-Based Authorization, CORS
+- **API Design:** RESTful APIs, CRUD, Pagination, Filtering, Sorting, API Versioning, Rate Limiting, Response & Distributed Caching
+- **Libraries:** Mapster, FluentValidation, Hangfire, Serilog
+- **DevOps & Tools:** Docker, Git, GitHub, Postman, Swagger/OpenAPI, IIS
 
-## 🚀 Featured Projects
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
----
-
-### 📊 Survey Basket API
-
-**Production-grade survey system**
-
-* Full CRUD operations
-* JWT Authentication & Refresh Tokens
-* Role & Permission-based Authorization
-* Caching, Rate Limiting, API Versioning
-* Audit Logging & Background Jobs (Hangfire)
-
-**Tech Stack:**
-`ASP.NET Core` · `SQL Server` · `Hangfire` · `Serilog`
-
-🔗 https://github.com/Yousry-Abdelrazek/SurveyBasket
-
----
-
-### 💧 AquaProject (Water Analysis API)
-
-**ML-powered water quality system**
-
-* REST API with EF Core & SQL Server
-* Integrated FastAPI ML microservice
-* Real-time potability prediction
-* Frontend for visualization
-
-**Tech Stack:**
-`ASP.NET Core` · `FastAPI` · `SQL Server` · `Machine Learning`
-
-🔗 https://github.com/Yousry-Abdelrazek/Water-Analysis
-
----
-
-### 🔍 Search Engine
-
-**Web crawler & ranking system**
-
-* PageRank algorithm
-* Inverted index
-* Word frequency ranking
-* Dockerized system
-
-**Tech Stack:**
-`C#` · `SQL Server` · `Docker`
-
-🔗 https://github.com/Yousry-Abdelrazek/Search-Engine
+## 🛠️ Featured Projects
 
 ---
 
-### 📚 Library Management System
+### 📋 Survey Basket — ASP.NET Core REST API
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A production-grade survey management REST API with full authentication and advanced backend features.</b></p>
+      <ul>
+        <li><b>Description:</b> A fully-featured REST API with CRUD operations, JWT authentication, refresh tokens, and ASP.NET Core Identity supporting both role-based and permission-based authorization.</li>
+        <li><b>Engineering Highlight:</b> Architected response caching, distributed caching, rate limiting, API versioning, and audit logging. Integrated <b>Hangfire</b> for background jobs, <b>Serilog</b> for structured logging, <b>Mapster</b> for object mapping, and <b>FluentValidation</b> for input validation. Deployed on IIS with full Swagger/OpenAPI documentation.</li>
+        <li><b>Tech Stack:</b> <code>ASP.NET Core</code> | <code>SQL Server</code> | <code>JWT</code> | <code>Hangfire</code> | <code>Serilog</code> | <code>Mapster</code> | <code>FluentValidation</code> | <code>IIS</code></li>
+      </ul>
+      <a href="https://github.com/Yousry-Abdelrazek/SurveyBasket">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**OOP-based system in C++**
+---
 
-* Custom data structures
-* File-based storage
-* Object-oriented design
-
-**Tech Stack:**
-`C++`
-
-🔗 https://github.com/Yousry-Abdelrazek/library-Management-System-
+### 💧 AquaProject — Water Potability Analysis API
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A water quality analysis platform with an integrated machine learning microservice for real-time predictions.</b></p>
+      <ul>
+        <li><b>Description:</b> A RESTful API using ASP.NET Core with full CRUD operations, EF Core, and SQL Server to manage water quality samples. Features a complete frontend for visualizing records and ML results.</li>
+        <li><b>Engineering Highlight:</b> Integrated a <b>FastAPI</b> ML microservice that classifies water potability based on nine physicochemical parameters (pH, hardness, turbidity, and more), delivering real-time predictions on every submission.</li>
+        <li><b>Tech Stack:</b> <code>ASP.NET Core</code> | <code>FastAPI</code> | <code>SQL Server</code> | <code>EF Core</code> | <code>HTML/CSS/JS</code></li>
+      </ul>
+      <a href="https://github.com/Yousry-Abdelrazek/Water-Analysis">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education
-
-**B.Sc. in Computer Science (2023 – 2026)**
-Fayoum University, Egypt
+### 🔍 Search Engine — Web Crawler & Ranking System
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A custom search engine with web crawling, inverted indexing, and PageRank-based result ranking.</b></p>
+      <ul>
+        <li><b>Description:</b> A search engine that ranks results using word frequency analysis and the PageRank algorithm. Implements web scraping, an inverted index, and SQL Server storage.</li>
+        <li><b>Engineering Highlight:</b> Containerized the entire application with <b>Docker</b> for consistent deployment and scalability.</li>
+        <li><b>Tech Stack:</b> <code>C#</code> | <code>SQL Server</code> | <code>Docker</code> | <code>PageRank</code></li>
+      </ul>
+      <a href="https://github.com/Yousry-Abdelrazek/Search-Engine">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### 📚 Library Management System — C++ OOP
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A library management system built with object-oriented C++ and custom data structures.</b></p>
+      <ul>
+        <li><b>Description:</b> Designed and implemented in C++ using core OOP principles, custom data structures, and file-based storage for data persistence.</li>
+        <li><b>Tech Stack:</b> <code>C++</code> | <code>OOP</code> | <code>Data Structures</code> | <code>File I/O</code></li>
+      </ul>
+      <a href="https://github.com/Yousry-Abdelrazek/library-Management-System-">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 ## 📜 Certifications
 
-* Building REST APIs with ASP.NET Core – DevCreed
-* ITI .NET Developer Track
-* ITI Web Development Fundamentals
-* ITI Java Development (OOP)
+- 🏆 **Building REST APIs with ASP.NET Core** — DevCreed (37 hrs · 383 lectures) — *Jan 2024 – Sep 2024*
+  - REST, Mapster, FluentValidation, Serilog, CORS, JWT, Refresh Tokens, Caching, Rate Limiting, API Versioning, Hangfire, Swagger, IIS Deployment
+- 🏆 **ITI — .NET Developer Track** — LINQ, EF Core, MVC, Web API
+- 🏆 **ITI — Introduction to Web Technology** — HTML, CSS, Bootstrap, JavaScript
+- 🏆 **ITI — Java Development Yellow Belt** — Object-Oriented Programming with Java
 
----
-
-## 🌍 Languages
-
-* Arabic: Native
-* English: Professional Working Proficiency
-
----
-
-💬 Always open to backend roles, internships, and collaborations.
+<div align="center">
+    <br>
+    <i>💬 Always open to interesting projects and backend engineering roles.</i>
+</div>
