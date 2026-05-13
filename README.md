@@ -17,6 +17,7 @@
 - **Email**: [yousryabdelrazek726@gmail.com](mailto:yousryabdelrazek726@gmail.com)
 - **LinkedIn**: [linkedin.com/in/yousry-abdelrazek](https://www.linkedin.com/in/yousry-abdelrazek-18bb7827a/)
 - **GitHub**: [github.com/Yousry-Abdelrazek](https://github.com/Yousry-Abdelrazek)
+- **CV**    : [My-CV](https://drive.google.com/drive/folders/1cGp9pDzmt6Yn_yKSOe9rkL5Hh8bP1Y15?usp=drive_link)
 - **Location**: Cairo, Egypt 🇪🇬
 
 <div align="center">
