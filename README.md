@@ -71,7 +71,7 @@ I build scalable, production-grade REST APIs using **ASP.NET Core**, **C#**, and
 
 ### 🏗️ Backend & Tools
 - **Frameworks:** ASP.NET Core Web API, ASP.NET MVC, FastAPI
-- **ORM & DB:** Entity Framework Core, LINQ, SQL Server, EF Core Migrations
+- **ORM & DB:** Entity Framework Core, LINQ, SQL Server, MySQL, Redis, EF Core Migrations
 - **Auth & Security:** JWT, Refresh Tokens, ASP.NET Core Identity, Role-Based & Permission-Based Authorization, CORS
 - **API Design:** RESTful APIs, CRUD, Pagination, Filtering, Sorting, API Versioning, Rate Limiting, Response & Distributed Caching
 - **Libraries:** Mapster, FluentValidation, Hangfire, Serilog
@@ -96,6 +96,25 @@ I build scalable, production-grade REST APIs using **ASP.NET Core**, **C#**, and
         <li><b>Tech Stack:</b> <code>ASP.NET Core</code> | <code>SQL Server</code> | <code>JWT</code> | <code>Hangfire</code> | <code>Serilog</code> | <code>Mapster</code> | <code>FluentValidation</code> | <code>IIS</code></li>
       </ul>
       <a href="https://github.com/Yousry-Abdelrazek/SurveyBasket">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔒 Raqib (ShopGuard) — Real-Time Shoplifting Detection System
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A team graduation project: an AI-powered security platform that detects shoplifting in real time using computer vision and instantly alerts security staff.</b></p>
+      <ul>
+        <li><b>Description:</b> Monitors live security camera feeds using <b>YOLOv8</b> computer vision to detect shoplifting in real time, alerting security personnel through a web dashboard and mobile app — enabling faster response and reducing loss.</li>
+        <li><b>Engineering Highlight:</b> Built a <b>.NET 9</b> RESTful API with <b>SignalR</b> WebSocket for live incident broadcasting, JWT authentication, and role-based authorization (Admin, InternalSecurity, GateSecurity). Integrated <b>Redis Streams</b> as the messaging layer between a Python YOLOv8 CV service and the .NET backend for asynchronous event processing. Designed a dual-database architecture with a cloud-based admin portal (.NET + React) for multi-tenant management alongside isolated on-premise client databases. Background service polls Redis, persists theft events, and triggers <b>Firebase Cloud Messaging</b> push alerts in real time.</li>
+        <li><b>Tech Stack:</b> <code>.NET 9</code> | <code>SignalR</code> | <code>Redis Streams</code> | <code>YOLOv8</code> | <code>Python</code> | <code>MySQL</code> | <code>React</code> | <code>Firebase FCM</code> | <code>JWT</code> | <code>EF Core</code></li>
+      </ul>
+      <a href="https://github.com/Yousry-Abdelrazek/Raqib/tree/master">
         <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
       </a>
     </td>
