@@ -10,11 +10,12 @@
     <a href="https://github.com/Yousry-Abdelrazek"><img src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
-<h2>Junior Backend Developer (.NET Developer) ⚙️</h2>
+<h2>Junior Backend Developer ⚙️</h2>
 
 <h3 align="left">Connect with me:</h3>
 
 - **Email**: [yousryabdelrazek726@gmail.com](mailto:yousryabdelrazek726@gmail.com)
+- **Phone**: +20 112 357 1126
 - **LinkedIn**: [linkedin.com/in/yousry-abdelrazek](https://www.linkedin.com/in/yousry-abdelrazek-18bb7827a/)
 - **GitHub**: [github.com/Yousry-Abdelrazek](https://github.com/Yousry-Abdelrazek)
 - **CV**    : [My-CV](https://drive.google.com/drive/folders/1cGp9pDzmt6Yn_yKSOe9rkL5Hh8bP1Y15?usp=drive_link)
@@ -27,13 +28,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Junior Backend Developer** and Computer Science student at Fayoum University (graduating 2026).  
-I build scalable, production-grade REST APIs using **ASP.NET Core**, **Spring Boot**, **C#**, and **SQL Server**.
+I'm a **Junior Backend Developer** and Computer Science graduate (2026) from Fayoum University with hands-on experience in backend development, RESTful API design, and object-oriented programming across **C#, Java, and Python**.
 
-- 🔭 Currently working on: **Microservices Architecture & System Design**
-- 💡 I enjoy: turning complex requirements into simple, reliable APIs
-- 🎯 Goal: Build and contribute to large-scale backend systems
-- 🎓 Education: B.Sc. Computer Science — Fayoum University (2022–2026)
+- 🔭 Experienced with **ASP.NET Core** and **Spring Boot**, multi-database systems (SQL Server, MySQL, PostgreSQL), and real-time messaging via **SignalR** and **Redis**.
+- 💡 Comfortable leveraging AI-assisted tooling (**Claude Code, OpenCode**) to accelerate development, debugging, and rapid prototyping.
+- 🎯 Goal: Build and contribute to large-scale, production-grade backend systems.
+- 🎓 Education: B.Sc. Computer Science — Fayoum University (2022–2026) · GPA: 3.54 / 4.0
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -46,17 +46,21 @@ I build scalable, production-grade REST APIs using **ASP.NET Core**, **Spring Bo
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
     <img width="12" />
@@ -77,10 +81,12 @@ I build scalable, production-grade REST APIs using **ASP.NET Core**, **Spring Bo
 - **Frameworks:** ASP.NET Core Web API, ASP.NET MVC, Spring Boot, FastAPI
 - **ORM & DB:** Entity Framework Core, LINQ, SQL Server, MySQL, PostgreSQL, Redis, EF Core Migrations
 - **Auth & Security:** JWT, Refresh Tokens, ASP.NET Core Identity, Role-Based & Permission-Based Authorization, CORS
-- **API Design:** RESTful APIs, CRUD, Pagination, Filtering, Sorting, API Versioning, Rate Limiting, Response & Distributed Caching
-- **Libraries:** Mapster, FluentValidation, Hangfire, Serilog
-- **DevOps & Tools:** Docker, Git, GitHub, Postman, Swagger/OpenAPI, IIS
-- **AI-Assisted Dev:** Claude Code, OpenCode
+- **API Design:** RESTful APIs, CRUD, Pagination, Filtering, Sorting, API Versioning, Rate Limiting, Response & Distributed Caching, Health Checks
+- **Software Engineering Principles:** SOLID Principles, Clean Architecture, Result Pattern, Design Patterns (Repository, Dependency Injection)
+- **Libraries:** Mapster, FluentValidation, Hangfire, Serilog, Refit
+- **Machine Learning:** Classification Models, Model Training & Evaluation, scikit-learn, Pandas, NumPy
+- **AI Tools:** Claude Code, OpenCode, LLMs for debugging, code optimization, and rapid prototyping
+- **DevOps & Tools:** Docker, Git, GitHub, Postman, Swagger/OpenAPI, IIS, Audit Logging, File Management
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -96,30 +102,12 @@ I build scalable, production-grade REST APIs using **ASP.NET Core**, **Spring Bo
     <td>
       <p><b>A team graduation project: an AI-powered security platform that detects shoplifting in real time using computer vision and instantly alerts security staff.</b></p>
       <ul>
+        <li><b>Role:</b> Backend Developer (.NET 9)</li>
         <li><b>Description:</b> Monitors live security camera feeds using <b>YOLOv8</b> computer vision to detect shoplifting in real time, alerting security personnel through a web dashboard and mobile app — enabling faster response and reducing loss.</li>
-        <li><b>Engineering Highlight:</b> Built a <b>.NET 9</b> RESTful API with <b>SignalR</b> WebSocket for live incident broadcasting, JWT authentication, and role-based authorization (Admin, InternalSecurity, GateSecurity). Integrated <b>Redis Streams</b> as the messaging layer between a Python YOLOv8 CV service and the .NET backend for asynchronous event processing. Designed a dual-database architecture with a cloud-based admin portal (.NET + React) for multi-tenant management alongside isolated on-premise client databases. Background service polls Redis, persists theft events, and triggers <b>Firebase Cloud Messaging</b> push alerts in real time.</li>
+        <li><b>Engineering Highlight:</b> Built a <b>.NET 9</b> RESTful API with <b>SignalR</b> for live incident broadcasting, JWT authentication, and role-based authorization (Admin, InternalSecurity, GateSecurity), backed by EF Core with MySQL across 10 database entities. Integrated <b>Redis Streams</b> as the messaging layer between a Python YOLOv8 CV service and the .NET backend for asynchronous detection processing, confidence scoring, and automated incident creation with video attachments. Designed a dual-database architecture with a cloud-based admin portal (.NET + React) for multi-tenant company/license management alongside isolated on-premise client databases for data privacy. A background service polls Redis and pushes SignalR/Firebase alerts to gate security in real time.</li>
         <li><b>Tech Stack:</b> <code>.NET 9</code> | <code>SignalR</code> | <code>Redis Streams</code> | <code>YOLOv8</code> | <code>Python</code> | <code>MySQL</code> | <code>React</code> | <code>Firebase FCM</code> | <code>JWT</code> | <code>EF Core</code></li>
       </ul>
-      <a href="https://github.com/Yousry-Abdelrazek/Raqib/tree/graduation-code">
-        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📚 Course Management System — Spring Boot REST API
-<table border="0">
-  <tr>
-    <td>
-      <p><b>A RESTful API for an online learning platform, built with Spring Boot and a clean layered architecture.</b></p>
-      <ul>
-        <li><b>Description:</b> A REST API for course enrollment and management using Spring Boot and MySQL, following the Repository Pattern with a layered architecture (Controller, Service, Repository).</li>
-        <li><b>Engineering Highlight:</b> Enforced business rules such as unique enrollments, soft-delete for courses, and restricted deletes for dependent instructors/students. Implemented pagination, sorting, and centralized error handling across endpoints, documented with Swagger/OpenAPI, and containerized with <b>Docker</b> and Docker Compose.</li>
-        <li><b>Tech Stack:</b> <code>Spring Boot</code> | <code>Java</code> | <code>MySQL</code> | <code>Docker</code> | <code>Swagger/OpenAPI</code></li>
-      </ul>
-      <a href="https://github.com/Yousry-Abdelrazek/Course_Management_System">
+      <a href="https://github.com/Yousry-Abdelrazek/Raqib">
         <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
       </a>
     </td>
@@ -135,10 +123,29 @@ I build scalable, production-grade REST APIs using **ASP.NET Core**, **Spring Bo
       <p><b>A production-grade survey management REST API with full authentication and advanced backend features.</b></p>
       <ul>
         <li><b>Description:</b> A fully-featured REST API with CRUD operations, JWT authentication, refresh tokens, and ASP.NET Core Identity supporting both role-based and permission-based authorization.</li>
-        <li><b>Engineering Highlight:</b> Architected response caching, distributed caching, rate limiting, API versioning, and audit logging. Integrated <b>Hangfire</b> for background jobs, <b>Serilog</b> for structured logging, <b>Mapster</b> for object mapping, and <b>FluentValidation</b> for input validation. Deployed on IIS with full Swagger/OpenAPI documentation.</li>
+        <li><b>Engineering Highlight:</b> Architected response caching, distributed caching, rate limiting, API versioning, and audit logging. Integrated <b>Hangfire</b> for background jobs, <b>Serilog</b> for structured logging, <b>Mapster</b> for object mapping, and <b>FluentValidation</b> for input validation. Delivered a complete user registration flow with email verification and password reset, documented with Swagger/OpenAPI, and deployed on IIS.</li>
         <li><b>Tech Stack:</b> <code>ASP.NET Core</code> | <code>SQL Server</code> | <code>JWT</code> | <code>Hangfire</code> | <code>Serilog</code> | <code>Mapster</code> | <code>FluentValidation</code> | <code>IIS</code></li>
       </ul>
       <a href="https://github.com/Yousry-Abdelrazek/SurveyBasket">
+        <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Course Management System — Spring Boot REST API
+<table border="0">
+  <tr>
+    <td>
+      <p><b>A RESTful API for an online learning platform, built with Spring Boot and a layered architecture.</b></p>
+      <ul>
+        <li><b>Description:</b> Built with Spring Boot and MySQL following the Repository Pattern with a layered architecture (Controller, Service, Repository), enforcing business rules such as unique enrollments, soft-delete for courses, and restricted deletes for dependent instructors/students.</li>
+        <li><b>Engineering Highlight:</b> Implemented pagination, sorting, and centralized error handling across endpoints; documented the API with Swagger/OpenAPI and containerized it with Docker and Docker Compose.</li>
+        <li><b>Tech Stack:</b> <code>Spring Boot</code> | <code>Java</code> | <code>MySQL</code> | <code>Swagger/OpenAPI</code> | <code>Docker</code> | <code>Docker Compose</code></li>
+      </ul>
+      <a href="https://github.com/Yousry-Abdelrazek/Course_Management_System">
         <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" alt="View Repo" />
       </a>
     </td>
@@ -208,10 +215,15 @@ I build scalable, production-grade REST APIs using **ASP.NET Core**, **Spring Bo
 ## 📜 Certifications
 
 - 🏆 **Building REST APIs with ASP.NET Core** — DevCreed (37 hrs · 383 lectures) — *Jan 2024 – Sep 2024*
-  - REST, Mapster, FluentValidation, Serilog, CORS, JWT, Refresh Tokens, Caching, Rate Limiting, API Versioning, Hangfire, Swagger, IIS Deployment
+  - REST, JWT, Refresh Tokens, Caching, Rate Limiting, API Versioning, Hangfire, Result Pattern, Health Checks, Refit, File Management, IIS Deployment
 - 🏆 **ITI — .NET Developer Track** — LINQ, EF Core, MVC, Web API
 - 🏆 **ITI — Introduction to Web Technology** — HTML, CSS, Bootstrap, JavaScript
 - 🏆 **ITI — Java Development Yellow Belt** — Object-Oriented Programming with Java
+
+## 🌐 Languages
+
+- **Arabic:** Native
+- **English:** Professional Working Proficiency
 
 <div align="center">
     <br>
